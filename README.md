@@ -1,4 +1,8 @@
-Read the full article at :  https://coderlegion.com/10763/asp-net-core-custom-logger-save-logs-to-database-sql
+Read the full article at :  
+
+https://coderlegion.com/10763/asp-net-core-custom-logger-save-logs-to-database-sql
+
+https://dev.to/stevsharp/aspnet-core-custom-logger-save-logs-to-database-sql-3ne4
 
 # DbLoggerSample
 
